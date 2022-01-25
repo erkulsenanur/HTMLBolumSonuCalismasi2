@@ -14,7 +14,7 @@ Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 
 Linux için:
 ```
-cd kodluyoruzilkrepo
+cd HTMLBolumSonuCalismasi2
 code .
 ```
 
